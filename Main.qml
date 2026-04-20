@@ -14,12 +14,22 @@ Window {
         radius: 15
         color: "red"
         smooth: true
-        NumberAnimation on width
-        {
-            from: 0
-            to: 300
-            duration: 10000 // takes duration ms to fill up
-            running: true  // starts automatically
+
+        SequentialAnimation on width{
+            running: true
+            loops: Animation.Infinite
+            NumberAnimation
+            {
+                from: 0
+                to: 300
+                duration: 10000
+            }
+            NumberAnimation
+            {
+                from: 300
+                to: 0
+                duration: 10000
+            }
         }
     }
 }
