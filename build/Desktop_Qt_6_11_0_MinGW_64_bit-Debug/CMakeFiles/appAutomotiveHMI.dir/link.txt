@@ -1,0 +1,3 @@
+D:\qt\software\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appAutomotiveHMI.dir/objects.a
+D:\qt\software\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appAutomotiveHMI.dir/objects.a @CMakeFiles\appAutomotiveHMI.dir\objects1.rsp
+D:\qt\software\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appAutomotiveHMI.dir/objects.a -Wl,--no-whole-archive -o appAutomotiveHMI.exe -Wl,--out-implib,libappAutomotiveHMI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appAutomotiveHMI.dir\linkLibs.rsp

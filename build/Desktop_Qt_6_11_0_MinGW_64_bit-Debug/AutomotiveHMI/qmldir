@@ -1,0 +1,6 @@
+module AutomotiveHMI
+typeinfo appAutomotiveHMI.qmltypes
+prefer :/qt/qml/AutomotiveHMI/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,223 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fe196008ddf7ff79b43b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AutomotiveHMI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-2bc7fc4e6dbb4e3b763a.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-5b9ef86c573d56d09336.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ec8d3e991fe84f0f135a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a694af16386cd3e92092.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-520afc07e3002b49d22c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI-Debug-ac2eba59bd584938ad5a.json",
+					"name" : "appAutomotiveHMI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_autogen-Debug-c54012921dc01c8b0b91.json",
+					"name" : "appAutomotiveHMI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_autogen_timestamp_deps-Debug-6ec183185d7c271adfea.json",
+					"name" : "appAutomotiveHMI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_copy_qml-Debug-d34522116fcae6b08ce0.json",
+					"name" : "appAutomotiveHMI_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_copy_res-Debug-e9170b14bdd156e588a2.json",
+					"name" : "appAutomotiveHMI_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_qmlimportscan-Debug-000fa7115f540baa016d.json",
+					"name" : "appAutomotiveHMI_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_qmllint-Debug-f8d4a7fa41aaf7b06089.json",
+					"name" : "appAutomotiveHMI_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_qmllint_json-Debug-6a7d4f90b387489e8184.json",
+					"name" : "appAutomotiveHMI_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_qmllint_module-Debug-5529ca917ee06908d35e.json",
+					"name" : "appAutomotiveHMI_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAutomotiveHMI_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAutomotiveHMI_qmltyperegistration-Debug-0584f8dc8b87f6e04147.json",
+					"name" : "appAutomotiveHMI_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-365af5ea14fe599b2df4.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-07e951bb8223e840142e.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-95bacaab6fe1a72f72d9.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appAutomotiveHMI_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appAutomotiveHMI_aotstats_target-Debug-3e7dc615b645bc169b0c.json",
+					"name" : "module_appAutomotiveHMI_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "D:/qt/projects/AutomotiveHMI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,14 @@
+-I
+D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/AutomotiveHMI
+-I
+D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+D:/qt/software/6.11.0/mingw_64/qml
+--resource
+D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_AutomotiveHMI.qrc
+--resource
+D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appAutomotiveHMI_raw_qml_0.qrc
+--module
+AutomotiveHMI

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appAutomotiveHMI_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_AutomotiveHMI.cpp"
+  ".rcc/qmlcache/appAutomotiveHMI_Main_qml.cpp"
+  ".rcc/qmlcache/appAutomotiveHMI_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appAutomotiveHMI_qmlcache_loader.cpp"
+  "AutomotiveHMI/appAutomotiveHMI.qmltypes"
+  "CMakeFiles/appAutomotiveHMI.dir/appAutomotiveHMI_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/appAutomotiveHMI_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI.dir/appautomotivehmi_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/appautomotivehmi_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appAutomotiveHMI_raw_qml_0.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appAutomotiveHMI_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AutomotiveHMI.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_AutomotiveHMI.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAutomotiveHMI_Main_qml.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAutomotiveHMI_Main_qml.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAutomotiveHMI_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.rcc/qmlcache/appAutomotiveHMI_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI.dir/main.cpp.obj"
+  "CMakeFiles/appAutomotiveHMI.dir/main.cpp.obj.d"
+  "CMakeFiles/appAutomotiveHMI_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appAutomotiveHMI_autogen.dir/ParseCache.txt"
+  "appAutomotiveHMI_autogen"
+  "appAutomotiveHMI.exe"
+  "appAutomotiveHMI.exe.manifest"
+  "appAutomotiveHMI.pdb"
+  "appAutomotiveHMI_autogen/mocs_compilation.cpp"
+  "appAutomotiveHMI_autogen/timestamp"
+  "appautomotivehmi_qmltyperegistrations.cpp"
+  "libappAutomotiveHMI.dll.a"
+  "meta_types/appAutomotiveHMI_json_file_list.txt"
+  "meta_types/appAutomotiveHMI_json_file_list.txt.timestamp"
+  "meta_types/qt6appautomotivehmi_metatypes.json"
+  "meta_types/qt6appautomotivehmi_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appAutomotiveHMI.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

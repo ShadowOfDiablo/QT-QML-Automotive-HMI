@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AutomotiveHMI">
+    <file alias="qmldir">D:/qt/projects/AutomotiveHMI/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/AutomotiveHMI/qmldir</file>
+  </qresource>
+</RCC>
+
